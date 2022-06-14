@@ -431,4 +431,12 @@
     "startDate": "2022-09-01",
     "endDate": "2022-09-04"
   }
-]
+{
+    "title": "ETHVietnam",
+    "to": "https://www.eth-vietnam.com/",
+    "sponsor": null,
+    "location": "Hochiminh City, Vietnam",
+    "description": "Feel the vibrant energy from emerging market by joining the first ETH Vietnam conference - starting with ETH Hochiminh(Saigon)  in-person conference and buidlathon!",
+    "startDate": "2022-08-31",
+    "endDate": "2022-09-04"
+ }
